@@ -48,6 +48,3 @@ The app does not require user consent for data collection because no data is col
 If you have questions or concerns about privacy, you may contact us at:
 
 info@thepodlyapp.com
-
-
-If you have questions, contact: info@thepodlyapp.com
